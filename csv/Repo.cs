@@ -18,7 +18,7 @@ namespace csv
              new Data() { DataUsar = DateTime.Now },
              new Data() { DataUsar = DateTime.Now },
              new Data() { DataUsar = DateTime.Now },
-             new Data() {DataUsar = DateTime.Parse("14/02/2001")}
+             new Data() { DataUsar = DateTime.Parse("14/09/2021")}
         };
 
             return data;

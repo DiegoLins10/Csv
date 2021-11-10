@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="5.8.2" />
+    <PackageReference Include="Extension.OfficeOpenXml" Version="1.1.0" />
     <PackageReference Include="Serilog" Version="2.10.0" />
   </ItemGroup>
 
